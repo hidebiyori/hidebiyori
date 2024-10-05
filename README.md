@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @hidebiyori
-- 👀 I’m interested in Universal app, Vue.js, Node.js
-- 🌱 I’m currently learning Flutter, Python
+- 👀 I’m interested in Universal app like Flutter
