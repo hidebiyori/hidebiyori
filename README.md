@@ -1,6 +1,7 @@
 | Topic | Details |
 | :--- | :--- |
 | Interest | Universal app like Flutter |
+| GitHub | https://github.com/hidebiyori |
 | Discord | hidebiyori |
 | Bluesky | https://bsky.app/profile/hidebiyori.bsky.social |
 | Threads | https://www.threads.net/@hidebiyori |
