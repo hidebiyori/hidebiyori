@@ -7,4 +7,5 @@
 | Threads | https://www.threads.net/@hidebiyori |
 | Taittsuu | https://taittsuu.com/users/hidebiyori |
 | X | https://x.com/hidebiyori |
+| Instagram | https://www.instagram.com/hidebiyori |
 | YouTube | https://youtube.com/@hidebiyori |
