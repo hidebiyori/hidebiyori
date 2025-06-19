@@ -6,7 +6,7 @@
 | Discord | Games (Username: hidebiyori) |
 | [mixi2](https://mixi.social/@hidebiyori) | Books |
 | [Instagram](https://www.instagram.com/hidebiyori) | Snacks |
-| [Threads](https://www.threads.net/@hidebiyori) | TBD |
+| [Threads](https://www.threads.net/@hidebiyori) | Cooking |
 | [Mastodon](https://mastodon.social/@hidebiyori) | TBD |
 | [Misskey](https://misskey.io/@hidebiyori) | TBD |
 | [YouTube](https://youtube.com/@hidebiyori) | Readonly |
